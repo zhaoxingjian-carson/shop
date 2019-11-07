@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>shop-service-api-weixin</module>
+        <module>shop-service-api-menber</module>
     </modules>
     <artifactId>shop-service-api</artifactId>
     <dependencies>
