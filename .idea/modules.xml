@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics.iml" filepath="$PROJECT_DIR$/shopparent/shop-basics/shop-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka/shop-basics-springcloud-eureka.iml" filepath="$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka/shop-basics-springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopparent/shop-parent.iml" filepath="$PROJECT_DIR$/shopparent/shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopparent/shop-api-entitys/shopapientitys.iml" filepath="$PROJECT_DIR$/shopparent/shop-api-entitys/shopapientitys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-weixin/shopserviceapiweixin.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-weixin/shopserviceapiweixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-impl/shopserviceimpl.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-impl/shopserviceimpl.iml" />
+    </modules>
+  </component>
+</project>

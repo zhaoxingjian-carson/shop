@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shopserviceapiweixin" />
+        <module name="shopapientitys" />
+        <module name="shop-basics-springcloud-eureka" />
+        <module name="shopserviceimpl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shop-basics" target="1.8" />
+      <module name="shop-basics-springcloud-eureka" target="1.8" />
+      <module name="shop-parent" target="1.8" />
+      <module name="shop-service-api" target="1.8" />
+      <module name="shopapientitys" target="1.8" />
+      <module name="shopserviceapi" target="1.8" />
+      <module name="shopserviceapiweixin" target="1.8" />
+      <module name="shopserviceimpl" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shop-basics-springcloud-eureka" options="-parameters" />
+      <module name="shopapientitys" options="-parameters" />
+      <module name="shopserviceapi" options="-parameters" />
+      <module name="shopserviceapiweixin" options="-parameters" />
+      <module name="shopserviceimpl" options="-parameters" />
+    </option>
+  </component>
+</project>
