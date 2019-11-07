@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/shopparent/pom.xml" />
         <option value="$PROJECT_DIR$/shopparent/shop-service-api/pom.xml" />
         <option value="$PROJECT_DIR$/shopparent/shop-service-impl/shop-weixin-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-member/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
