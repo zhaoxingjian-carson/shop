@@ -1,5 +1,6 @@
 package com.carson.member;
 
+import com.spring4all.swagger.EnableSwagger2Doc;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
@@ -15,6 +16,7 @@ import javax.swing.*;
 @SpringBootApplication
 @EnableEurekaClient
 @EnableFeignClients
+@EnableSwagger2Doc
 public class MemberAppServer {
     public static void main(String[] args) {
         SpringApplication.run(MemberAppServer.class, args);

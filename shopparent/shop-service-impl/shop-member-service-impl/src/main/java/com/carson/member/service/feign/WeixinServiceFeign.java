@@ -1,8 +1,7 @@
 package com.carson.member.service.feign;
 
-import com.carson.entity.weixin.AppEntity;
+import com.carson.service.weixin.AppService;
 import org.springframework.cloud.openfeign.FeignClient;
-import org.springframework.web.bind.annotation.GetMapping;
 
 /**
  * @author zhaoxingjian
@@ -12,13 +11,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 
 @FeignClient("app-carson-weixin")
-public interface WeixinServiceFeign {
+public interface WeixinServiceFeign extends AppService {
 
-    /**
-     * 获取app应用信息
-     *
-     * @return
-     */
-    @GetMapping("/getApp")
-    public AppEntity getApp();
+
 }
