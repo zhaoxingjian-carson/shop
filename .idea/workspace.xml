@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9b40078-1c37-428f-a9a9-f62d608f65dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka/target/classes/com/carson/eureka/AppEureka.class" beforeDir="false" />
-    </list>
+    <list default="true" id="e9b40078-1c37-428f-a9a9-f62d608f65dd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/shopparent/shop-basics/target/" />
     <ignored path="$PROJECT_DIR$/shopparent/target/" />
     <ignored path="$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka/target/" />
@@ -36,7 +33,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-eureka/src/main/java/com/carson/eureka/AppEureka.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
+            <state relative-caret-position="132">
               <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
@@ -109,6 +106,7 @@
       <MavenGeneralSettings>
         <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.2.5" />
         <option name="userSettingsFile" value="D:\apache-maven-3.2.5\conf\settings.xml" />
+        <option name="workOffline" value="true" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -119,10 +117,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="456" />
-    <option name="y" value="11" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -134,30 +131,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopparent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-service-impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopparent" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-weixin-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,7 +161,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3258547" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -202,46 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AppEureka">
-    <configuration name="AppEureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="shop-basics-eureka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.carson.eureka.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.carson.eureka.AppEureka" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MemberAppServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="shopmenberserviceimpl" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.carson.member.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.carson.member.MemberAppServer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WeixinAppServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="shopweixinserviceimpl" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.carson.weixin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.carson.weixin.WeixinAppServer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.90-access" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment />
@@ -305,13 +252,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Spring Boot.AppEureka" />
-        <item itemvalue="Spring Boot.MemberAppServer" />
-        <item itemvalue="Spring Boot.WeixinAppServer" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -326,7 +266,8 @@
       <workItem from="1573094971008" duration="1161000" />
       <workItem from="1573097312708" duration="306000" />
       <workItem from="1573097735080" duration="5566000" />
-      <workItem from="1573124494680" duration="8888000" />
+      <workItem from="1573124494680" duration="9365000" />
+      <workItem from="1573222142731" duration="843000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1573095007492</created>
@@ -339,12 +280,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15921000" />
+    <option name="totallyTimeSpent" value="17241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26778522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -354,7 +295,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.49483013" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49483013" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,12 +334,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/shopparent/shop-api-entitys/src/main/java/com/carson/weixin/entity/AppEntitry.java" />
     <entry file="file://$PROJECT_DIR$/shopparent/shop-api-entitys/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-api-entitys/src/main/java/com/carson/entity/weixin/AppEntity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -411,40 +352,37 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-weixin/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-service-api/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopparent/shop-service-impl/com.carson.menber.service.impl/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/shopparent/shop-service-impl/com.carson.menber.service.impl/pom.xml" />
     <entry file="file://$PROJECT_DIR$/shopparent/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-service-impl/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-weixin/src/main/java/com/carson/service/weixin/AppService.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -457,20 +395,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-member/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="39" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-weixin-service-impl/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="53" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-member-service-impl/src/main/java/com/carson/member/service/feign/WeixinServiceFeign.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -480,12 +418,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-member-service-impl/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-weixin-service-impl/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -536,26 +474,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka/src/main/java/com/carson/eureka/AppEureka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka/src/main/java/com/carson/eureka/AppEureka.java" />
+    <entry file="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka/pom.xml" />
     <entry file="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-member-service-impl/src/main/java/com/carson/member/service/impl/MemberServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -567,13 +487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka/src/main/resources/application.yml" />
     <entry file="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-member-service-impl/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -582,16 +496,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-basics/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-eureka/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.3/eureka-client-1.9.3.jar!/com/netflix/discovery/EurekaIdentityHeaderFilter.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -600,15 +514,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-eureka/src/main/java/com/carson/eureka/AppEureka.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
+        <state relative-caret-position="132">
           <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

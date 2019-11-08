@@ -25,7 +25,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="shop-weixin-service-impl" />
+    <orderEntry type="module" module-name="shop-service-weixin-impl" />
     <orderEntry type="module" module-name="shop-service-api-weixin" />
     <orderEntry type="module" module-name="shop-api-entitys" />
     <orderEntry type="library" name="Maven: com.spring4all:swagger-spring-boot-starter:1.7.0.RELEASE" level="project" />
@@ -45,7 +45,7 @@
     <orderEntry type="library" name="Maven: org.springframework.plugin:spring-plugin-metadata:1.2.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.mapstruct:mapstruct:1.2.0.Final" level="project" />
     <orderEntry type="library" name="Maven: io.springfox:springfox-bean-validators:2.8.0" level="project" />
-    <orderEntry type="module" module-name="shop-service-api-member" />
+    <orderEntry type="module" module-name="shopserviceapimenber" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-openfeign:2.0.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter:2.0.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-context:2.0.4.RELEASE" level="project" />
