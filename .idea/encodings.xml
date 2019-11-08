@@ -5,13 +5,15 @@
     <file url="file://$PROJECT_DIR$/shopparent/shop-api-entitys" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shopparent/shop-basics" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-springcloud-eureka/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/shopparent/shop-basics/shop-basics-zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shopparent/shop-service-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-member" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-weixin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shopparent/shop-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopparent/shop-service-impl/com.carson.menber.service.impl" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-member-service-impl" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-weixin-service-impl" charset="UTF-8" />
-    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
