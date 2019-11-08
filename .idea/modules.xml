@@ -9,12 +9,12 @@
       <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-member-service-impl/shop-member-service-impl.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-impl/shop-member-service-impl/shop-member-service-impl.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopparent/shop-parent.iml" filepath="$PROJECT_DIR$/shopparent/shop-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-member/shopserviceapimenber.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-member/shopserviceapimenber.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-weixin/shop-service-api-weixin.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-weixin/shop-service-api-weixin.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-service-impl.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-impl/shop-service-impl.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-weixin-service-impl/shop-service-weixin-impl.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-impl/shop-weixin-service-impl/shop-service-weixin-impl.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopparent/shop-api-entitys/shopapientitys.iml" filepath="$PROJECT_DIR$/shopparent/shop-api-entitys/shopapientitys.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-member-service-impl/shopmenberserviceimpl.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-impl/shop-member-service-impl/shopmenberserviceimpl.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-member/shopserviceapimenber.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-api/shop-service-api-member/shopserviceapimenber.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-impl/shopserviceimpl.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-impl/shopserviceimpl.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopparent/shop-service-impl/shop-weixin-service-impl/shopweixinserviceimpl.iml" filepath="$PROJECT_DIR$/shopparent/shop-service-impl/shop-weixin-service-impl/shopweixinserviceimpl.iml" />
     </modules>

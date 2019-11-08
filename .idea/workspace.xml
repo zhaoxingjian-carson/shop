@@ -204,7 +204,7 @@
   </component>
   <component name="RunManager" selected="Spring Boot.AppEureka">
     <configuration name="AppEureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="shop-basics-springcloud-eureka" />
+      <module name="shop-basics-eureka" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.carson.eureka.*" />
