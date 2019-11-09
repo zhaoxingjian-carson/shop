@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/git-shop.iml" filepath="$PROJECT_DIR$/.idea/git-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-parent/shop-api-entitys/shop-api-entitys.iml" filepath="$PROJECT_DIR$/shop-parent/shop-api-entitys/shop-api-entitys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-parent/shop-basics/shop-basics.iml" filepath="$PROJECT_DIR$/shop-parent/shop-basics/shop-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-parent/shop-basics/shop-basics-eureka/shop-basics-eureka.iml" filepath="$PROJECT_DIR$/shop-parent/shop-basics/shop-basics-eureka/shop-basics-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-parent/shop-basics/shop-basics-zuul/shop-basics-zuul.iml" filepath="$PROJECT_DIR$/shop-parent/shop-basics/shop-basics-zuul/shop-basics-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-parent/shop-service-impl/shop-member-service-impl/shop-member-service-impl.iml" filepath="$PROJECT_DIR$/shop-parent/shop-service-impl/shop-member-service-impl/shop-member-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-parent/shop-parent.iml" filepath="$PROJECT_DIR$/shop-parent/shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-parent/shop-service-api/shop-service-api.iml" filepath="$PROJECT_DIR$/shop-parent/shop-service-api/shop-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-parent/shop-service-api/shop-member-service-api/shop-service-api-member.iml" filepath="$PROJECT_DIR$/shop-parent/shop-service-api/shop-member-service-api/shop-service-api-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-parent/shop-service-api/shop-weixin-service-api/shop-service-api-weixin.iml" filepath="$PROJECT_DIR$/shop-parent/shop-service-api/shop-weixin-service-api/shop-service-api-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-parent/shop-service-impl/shop-service-impl.iml" filepath="$PROJECT_DIR$/shop-parent/shop-service-impl/shop-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/shop-weixin-service-impl.iml" filepath="$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/shop-weixin-service-impl.iml" />
     </modules>
   </component>
 </project>

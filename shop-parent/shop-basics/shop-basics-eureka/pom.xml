@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>shop-basics-springcloud-eureka</artifactId>
+    <artifactId>shop-basics-eureka</artifactId>
 
     <dependencies>
         <!--SpringCloud eureka-server -->
