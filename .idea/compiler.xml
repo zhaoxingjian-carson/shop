@@ -35,6 +35,8 @@
       <module name="shop-basics-eureka" options="-parameters" />
       <module name="shop-basics-zuul" options="-parameters" />
       <module name="shop-member-service-impl" options="-parameters" />
+      <module name="shop-service-api-member" options="-parameters" />
+      <module name="shop-service-api-weixin" options="-parameters" />
       <module name="shop-weixin-service-impl" options="-parameters" />
     </option>
   </component>
