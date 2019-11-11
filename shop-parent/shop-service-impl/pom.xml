@@ -17,12 +17,12 @@
     </modules>
     <dependencies>
         <dependency>
-            <artifactId>shop-service-api-weixin</artifactId>
+            <artifactId>shop-weixin-service-api</artifactId>
             <groupId>com.carson</groupId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <artifactId>shop-service-api-member</artifactId>
+            <artifactId>shop-member-service-api</artifactId>
             <groupId>com.carson</groupId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
@@ -32,8 +32,11 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-openfeign</artifactId>
         </dependency>
-
-
+        <dependency>
+            <artifactId>shop-common-core</artifactId>
+            <groupId>com.carson</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
 </project>
