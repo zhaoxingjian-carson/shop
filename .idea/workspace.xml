@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b5cd2c0-546f-4a89-916c-613797602549" name="Default Changelist" comment="" />
+    <list default="true" id="6b5cd2c0-546f-4a89-916c-613797602549" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/shop-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/src/main/java/com/carson/weixin/WeixinAppServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/src/main/java/com/carson/weixin/WeixinAppServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/target/" />
     <ignored path="$PROJECT_DIR$/shop-parent/shop-basics/target/" />
     <ignored path="$PROJECT_DIR$/shop-parent/target/" />
@@ -23,7 +27,42 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/src/main/java/com/carson/weixin/WeixinAppServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-parent/shop-basics/shop-basics-eureka/src/main/java/com/carson/eureka/AppEureka.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-parent/shop-basics/shop-basics-zuul/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-300" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +71,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/shop-parent/shop-basics/shop-basics-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-parent/shop-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/src/main/java/com/carson/weixin/WeixinAppServer.java" />
+        <option value="$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -45,16 +88,19 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1096" />
-    <option name="y" value="135" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <autoscrollToSource ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -62,15 +108,146 @@
               <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics-eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics-zuul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-basics-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-service-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-weixin-service-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-weixin-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-weixin-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-weixin-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-weixin-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-weixin-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-parent" />
@@ -93,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.WeixinAppServer">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="git-shop" />
       <option name="VM_PARAMETERS" />
@@ -141,6 +318,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppEureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-basics-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carson.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.carson.eureka.AppEureka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeixinAppServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-weixin-service-impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carson.weixin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.carson.weixin.WeixinAppServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WeixinAppServer" />
+        <item itemvalue="Spring Boot.AppEureka" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -154,25 +363,59 @@
       <updated>1573331386661</updated>
       <workItem from="1573331387983" duration="46000" />
       <workItem from="1573331518668" duration="676000" />
+      <workItem from="1573367312521" duration="3141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="722000" />
+    <option name="totallyTimeSpent" value="3863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20643431" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13605899" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.53372437" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43153527" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -185,7 +428,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -195,7 +439,8 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
-    </layout>
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -205,6 +450,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-parent/shop-service-impl/shop-member-service-impl/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-parent/shop-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-parent/shop-basics/shop-basics-eureka/src/main/java/com/carson/eureka/AppEureka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-parent/shop-basics/shop-basics-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/src/main/java/com/carson/weixin/WeixinAppServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-parent/shop-service-impl/shop-weixin-service-impl/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
