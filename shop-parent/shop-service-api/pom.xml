@@ -10,8 +10,8 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>shop-service-api-weixin</module>
-        <module>shop-service-api-member</module>
+        <module>shop-weixin-service-api</module>
+        <module>shop-member-service-api</module>
     </modules>
     <artifactId>shop-service-api</artifactId>
     <dependencies>
