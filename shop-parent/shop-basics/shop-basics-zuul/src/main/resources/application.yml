@@ -1,11 +1,18 @@
 ###服务启动端口号
 server:
-  port: 80
+  port: 8099
 
 ###服务名称(服务注册到eureka名称)
 spring:
   application:
     name: app-carson-zuul
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driverClassName: com.mysql.jdbc.Driver
+    # 添加&useSSL=true后会报错
+    url: jdbc:mysql://192.168.90.136:3306/order?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: root
 
 ###服务注册到eureka地址
 eureka:

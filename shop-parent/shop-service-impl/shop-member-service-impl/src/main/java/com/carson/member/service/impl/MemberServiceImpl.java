@@ -2,6 +2,8 @@ package com.carson.member.service.impl;
 
 import com.carson.entity.weixin.AppEntity;
 import com.carson.member.service.feign.WeixinServiceFeign;
+import com.netflix.discovery.DiscoveryManager;
+import com.netflix.discovery.EurekaClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -19,6 +21,7 @@ public class MemberServiceImpl implements MemberService {
 
     @Override
     public AppEntity memberToWeixin() {
+
         return weixinServiceFeign.getApp();
     }
 }
